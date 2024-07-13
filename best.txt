@@ -1,0 +1,1 @@
+Python libraries we use: Celery, Pydantic, Playwright, BeautifulSoup, Asyncio, Httpx, Pydash, Mypy, Pytest, Poetry, Pyenv, Poppler, PdfMiner.
